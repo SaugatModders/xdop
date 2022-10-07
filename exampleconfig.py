@@ -12,7 +12,7 @@ class Development(Config):
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
     STRING_SESSION = "1BVtsOMgBuyKlmGUQqXD9ws1iCEd3YuiN7jyfI4HnXLGEQ2OXTv88wcNGvVTneb3pc3prWKaNpki2c8svpJG_CQwcM5TqdSY1yQp8Z6wCxb9PIDRikXcntGyrEqZ7HogHzfiDERydwWKNbTGBj2XbCLPaZZEEQio9S96MSGM-WFKkCPqpRUF545_pnQCPdTPpQH2guGAybakEe1ODlj1lietLt5cGSuxNOUqsTaecjzm96zbGQqGHvU_n4SXHmeuS6Ire_MulVRBcu9cPxNkThnF3W8fhBd5pg_NzLfvTnpBk57amL2bkXjMF01cRtIcvcjk65sjtnh7TrOvLWmiShUb8Vxf7z6w="
     # create a new bot in @botfather and fill the following vales with bottoken
-    TG_BOT_TOKEN = ""
+    TG_BOT_TOKEN = "5696580460:AAHyD8VW1RQ0Mdqy8Z-gsUVQVOHn80urFn4"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
     PRIVATE_GROUP_BOT_API_ID = -1001891414204
     # command handler
