@@ -8,13 +8,13 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "billi hu"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "postgresql://postgres:harop@localhost:5432/catuserbot"
+    DB_URI = "postgresql://postgres:harop11@localhost:5432/catuserbot"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
-    STRING_SESSION = "1BVtsOMgBuyKlmGUQqXD9ws1iCEd3YuiN7jyfI4HnXLGEQ2OXTv88wcNGvVTneb3pc3prWKaNpki2c8svpJG_CQwcM5TqdSY1yQp8Z6wCxb9PIDRikXcntGyrEqZ7HogHzfiDERydwWKNbTGBj2XbCLPaZZEEQio9S96MSGM-WFKkCPqpRUF545_pnQCPdTPpQH2guGAybakEe1ODlj1lietLt5cGSuxNOUqsTaecjzm96zbGQqGHvU_n4SXHmeuS6Ire_MulVRBcu9cPxNkThnF3W8fhBd5pg_NzLfvTnpBk57amL2bkXjMF01cRtIcvcjk65sjtnh7TrOvLWmiShUb8Vxf7z6w="
+    STRING_SESSION = "1AZWarzgBu2L1qN381LHVqLv8zQXyhrZG-lkdUmZR5xhGaQstGhzHt8IpzRPstcTZo9SJH7rVh3Hb7f92UK87K3PkgM-hUTpdFrf_Xiuxee5pGqJgABCv8abnObJDsRGvGDKki5yRZlHFAWr9Yi6d2r_BQV5KtDsXcT8-ea7f-C72pebS4j46ePtS4v-65erJfkv4MKPk7GEWLk55i6r6xBgZiMsr_iEhr4y-KwFDxH9s8NvV5ctg1Ea1FUtH8ok6o3mK2XUbPvQJFHSFLFUyl6LRx14T5fBmW6DwO74f2kf6Fz-TT1pc0ZvQmeFIcyIuPMX78CyyLuqiFqhIrIUqSkZ0NiG6owQ="
     # create a new bot in @botfather and fill the following vales with bottoken
-    TG_BOT_TOKEN = "5696580460:AAHyD8VW1RQ0Mdqy8Z-gsUVQVOHn80urFn4"
+    TG_BOT_TOKEN = "5983929500:AAFulhGH3hzUybKyaKVUbe-JDIYoYW0aCTY"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
-    PRIVATE_GROUP_BOT_API_ID = -1001891414204
+    PRIVATE_GROUP_BOT_API_ID = -1001805278464
     # command handler
     COMMAND_HAND_LER = "."
     # command hanler for sudo
@@ -22,4 +22,4 @@ class Development(Config):
     # External plugins repo
     EXTERNAL_REPO = "https://github.com/TgCatUB/CatPlugins"
     # if you need badcat plugins set "True"
-    BADCAT = "False"
+    BADCAT = "True"
